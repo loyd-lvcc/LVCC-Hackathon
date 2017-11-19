@@ -1,4 +1,4 @@
-# La Verdad Christian Collage 1st Hackathon
+# La Verdad Christian College 1st Hackathon
 ### Current Challenges of ICT Students
 
 #### hack·a·thon
