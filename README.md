@@ -1,6 +1,6 @@
 # La Verdad Christian College 1st Hackathon
-### Current Challenges of ICT Students
-###### Develop a program that will help the current ICT students in their daily challenges.
+### Challenges of ICT Students
+###### Develop a program that will help ICT students in their daily challenges.
 
 #### hack·a·thon
 *ˈhakəˌTHän/*
