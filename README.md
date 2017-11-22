@@ -2,6 +2,8 @@
 ### Challenges of ICT Students
 ###### Develop a program that will help ICT students in their daily challenges.
 
+**Hacking starts upon registration until the day of the event. Teams can still work in their project until the day of hackaton. Demo of the projects will start at 3pm.**
+
 #### hack·a·thon
 *ˈhakəˌTHän/*
 
