@@ -1,5 +1,5 @@
-# La Verdad Christian College 1st Hackathon
-### Computing professionals of tomorrow: promoting social good and spreading positivity to our society.
+# La Verdad Christian College Hackathon Year 2
+### Computing professionals of tomorrow: Promoting social good and spreading positivity to our society.
 ###### Develop a program that will promote social good and spread positivity to our society.
 
 **Hacking starts upon registration until the day of the event. Teams can still work in their project until the day of hackathon. Demo of the projects will start at TBA.**
