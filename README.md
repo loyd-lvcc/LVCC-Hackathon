@@ -1,8 +1,8 @@
 # La Verdad Christian College 1st Hackathon
-### Challenges of ICT Students
-###### Develop a program that will help ICT students in their daily challenges.
+### Computing professionals of tomorrow: promoting social good and spreading positivity to our society.
+###### Develop a program that will promote social good and spread positivity to our society.
 
-**Hacking starts upon registration until the day of the event. Teams can still work in their project until the day of hackathon. Demo of the projects will start at 3pm.**
+**Hacking starts upon registration until the day of the event. Teams can still work in their project until the day of hackathon. Demo of the projects will start at TBA.**
 
 #### hack·a·thon
 *ˈhakəˌTHän/*
@@ -50,9 +50,9 @@ These criteria will guide judges but ultimately judges are free to make decision
 #### Awards
 Contest prizes are non-transferable by the winner.
 
-**1st Place** – ₱2,000
+**1st Place** – ₱3,000
 
-**2nd Place** – ₱1,000
+**2nd Place** – ₱2,000
 
-**3rd Place** – ₱500
+**3rd Place** – ₱1,000
 
